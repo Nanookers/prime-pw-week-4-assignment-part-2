@@ -1,6 +1,7 @@
 .header{
     border-style: dashed;
     text-align: center;
+
     
 }
 .info{
@@ -8,7 +9,9 @@
     text-align: center;
     background-color: rgb(197, 240, 240);
     color: rgb(247, 144, 107);
-    margin: 5%;
+    /*separates this from the header*/
+    margin: 3%;
+    /*Tet below centers the body/parts of the body*/
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -26,13 +29,16 @@
 }
 .aboutMe{
     background-color: rgb(128, 125, 186);
-    margin: 5%;
+    margin: 3%;
+    text-transform: lowercase;
+/*Tet below centers the body/parts of the body*/
     border-style: dashed;
     text-align: center;
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 40%; 
+
      
 }
 
